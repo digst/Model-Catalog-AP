@@ -18,7 +18,6 @@ Properties:
 * `dct:modified` (Datatype property) Range: rdfs:Literal. 
 * `owl:versionInfo` (Datatype property) Range: rdfs:Literal. 
 * `adms:versionNotes` (Datatype property) Range: rdfs:Literal. 
-
 * `dct:hasVersion`  (Object Property) Range: dcat:Dataset
 * `dct:type`  (Object Property) Range: skos:Concept
 * `dct:type`  (Object Property) Range: mtyp:ModelType
@@ -40,7 +39,6 @@ Properties:
 * `dcat:accessURL` (Datatype property) Range: rdfs:Literal. 
 * `dct:title` (Datatype property) Range: rdfs:Literal. 
 * `fileSize` (Datatype property) Range: rdfs:Literal. 
-
 * `dct:format`  (Object Property) Range: dct:MediaTypeOrExtent
 * `adms:representationTechnique`  (Object Property) Range: skos:Concept
 * `dct:license`  (Object Property) Range: dct:LicenseDocument
