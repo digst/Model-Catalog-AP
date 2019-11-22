@@ -1,4 +1,4 @@
-# Model-Catalog-AP
+# modelDCAT-AP
 
 ## Class: dcat:Catalog (MODEL CATALOG)
 Properties:
