@@ -1,4 +1,17 @@
-# modelDCAT-AP
+# modelDCAT-AP: Anvendelsesprofil til beskrivelse af begrebs- og datamodeller  (UDKAST/DRAFT)
+
+- Namespace: https://data.gov.dk/profile/modelCAT-AP/
+- Preferred prefix: modeldcat-ap
+- Modelnavn (label): modelDCAT-AP: Anvendelsesprofil til beskrivelse af begrebs- og datamodeller
+- Modelansvarlig (responsibleEntity): Digitaliseringsstyrelsen
+- Udgiver (publisher): Digitaliseringsstyrelsen
+- Modelstatus (modelStatus): development
+- Godkendelsesstatus (approvalStatus): afventer godkendelse
+- Forretningsområde (theme): http://www.form-online.dk/opgavenoegle/06/#06.38.10.10
+- Kommentar (comment) @da: Anvendelsesprofil til beskrivelse af begrebs- og datamodeller
+- Kommentar (comment) @en: Application profile for the description of concept and data models
+
+Læs mere om DCAT-AP-DK på dette link: https://digst.github.io/DCAT-AP-DK/releases/v.2.0/docs/
 
 ## Class: dcat:Catalog (MODEL CATALOG)
 Properties:
