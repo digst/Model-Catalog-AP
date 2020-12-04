@@ -45,7 +45,7 @@ Properties:
 * `voag:hasApprovalStatus`  (Object Property) Range: skos:Concept.
 * `voag:approvedBy` (Object Property) Range: rdfs:Literal. 
 * `dct:hasVersion`  (Object Property) Range: dcat:Dataset
-* `dcat:theme`  (Object Property) Range: skos:Concept
+* `dct:theme`  (Object Property) Range: skos:Concept
 * `foaf:page`  (Object Property) Range: foaf:Document
 * `dct:rights`  (Object Property) Range: dct:RightsStatement
 * `dcat:landingPage`  (Object Property) Range: foaf:Document
